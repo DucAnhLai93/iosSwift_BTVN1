@@ -1,0 +1,327 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		736E955F2489EB0700CCD26A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E955E2489EB0700CCD26A /* main.swift */; };
+		736E95662489EB1200CCD26A /* BT1- KTSN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E95652489EB1200CCD26A /* BT1- KTSN.swift */; };
+		736E95682489FBA400CCD26A /* BT2- Tam Giac.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E95672489FBA400CCD26A /* BT2- Tam Giac.swift */; };
+		736E956A248A055500CCD26A /* BT3- Nam nhuan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E9569248A055500CCD26A /* BT3- Nam nhuan.swift */; };
+		736E956C248A06CA00CCD26A /* BT4- Tinh Gio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E956B248A06CA00CCD26A /* BT4- Tinh Gio.swift */; };
+		736E956E248A0BA200CCD26A /* BT6- Ve tam giac can.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E956D248A0BA200CCD26A /* BT6- Ve tam giac can.swift */; };
+		736E9570248A5BBF00CCD26A /* BT9- Ve Hinh Chu Nhat Rong.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E956F248A5BBF00CCD26A /* BT9- Ve Hinh Chu Nhat Rong.swift */; };
+		736E9572248A5C7600CCD26A /* BT10- Ve tam giac can nguoc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E9571248A5C7600CCD26A /* BT10- Ve tam giac can nguoc.swift */; };
+		736E9574248A5EB500CCD26A /* BT7- Ve X.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E9573248A5EB500CCD26A /* BT7- Ve X.swift */; };
+		736E9576248AA37D00CCD26A /* BT8- So Hoan Hao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E9575248AA37D00CCD26A /* BT8- So Hoan Hao.swift */; };
+		736E957A248AA91900CCD26A /* BT5- Min n.swift in Sources */ = {isa = PBXBuildFile; fileRef = 736E9579248AA91900CCD26A /* BT5- Min n.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		736E95592489EB0700CCD26A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		736E955B2489EB0700CCD26A /* BTVN1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BTVN1; sourceTree = BUILT_PRODUCTS_DIR; };
+		736E955E2489EB0700CCD26A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		736E95652489EB1200CCD26A /* BT1- KTSN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT1- KTSN.swift"; sourceTree = "<group>"; };
+		736E95672489FBA400CCD26A /* BT2- Tam Giac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT2- Tam Giac.swift"; sourceTree = "<group>"; };
+		736E9569248A055500CCD26A /* BT3- Nam nhuan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT3- Nam nhuan.swift"; sourceTree = "<group>"; };
+		736E956B248A06CA00CCD26A /* BT4- Tinh Gio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT4- Tinh Gio.swift"; sourceTree = "<group>"; };
+		736E956D248A0BA200CCD26A /* BT6- Ve tam giac can.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT6- Ve tam giac can.swift"; sourceTree = "<group>"; };
+		736E956F248A5BBF00CCD26A /* BT9- Ve Hinh Chu Nhat Rong.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT9- Ve Hinh Chu Nhat Rong.swift"; sourceTree = "<group>"; };
+		736E9571248A5C7600CCD26A /* BT10- Ve tam giac can nguoc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT10- Ve tam giac can nguoc.swift"; sourceTree = "<group>"; };
+		736E9573248A5EB500CCD26A /* BT7- Ve X.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT7- Ve X.swift"; sourceTree = "<group>"; };
+		736E9575248AA37D00CCD26A /* BT8- So Hoan Hao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT8- So Hoan Hao.swift"; sourceTree = "<group>"; };
+		736E9579248AA91900CCD26A /* BT5- Min n.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BT5- Min n.swift"; sourceTree = "<group>"; };
+		736E957B248B49C700CCD26A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		736E95582489EB0700CCD26A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		736E95522489EB0600CCD26A = {
+			isa = PBXGroup;
+			children = (
+				736E957B248B49C700CCD26A /* README.md */,
+				736E955D2489EB0700CCD26A /* BTVN1 */,
+				736E955C2489EB0700CCD26A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		736E955C2489EB0700CCD26A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				736E955B2489EB0700CCD26A /* BTVN1 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		736E955D2489EB0700CCD26A /* BTVN1 */ = {
+			isa = PBXGroup;
+			children = (
+				736E955E2489EB0700CCD26A /* main.swift */,
+				736E95652489EB1200CCD26A /* BT1- KTSN.swift */,
+				736E95672489FBA400CCD26A /* BT2- Tam Giac.swift */,
+				736E9569248A055500CCD26A /* BT3- Nam nhuan.swift */,
+				736E956B248A06CA00CCD26A /* BT4- Tinh Gio.swift */,
+				736E956D248A0BA200CCD26A /* BT6- Ve tam giac can.swift */,
+				736E9579248AA91900CCD26A /* BT5- Min n.swift */,
+				736E9573248A5EB500CCD26A /* BT7- Ve X.swift */,
+				736E9575248AA37D00CCD26A /* BT8- So Hoan Hao.swift */,
+				736E956F248A5BBF00CCD26A /* BT9- Ve Hinh Chu Nhat Rong.swift */,
+				736E9571248A5C7600CCD26A /* BT10- Ve tam giac can nguoc.swift */,
+			);
+			path = BTVN1;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		736E955A2489EB0700CCD26A /* BTVN1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 736E95622489EB0700CCD26A /* Build configuration list for PBXNativeTarget "BTVN1" */;
+			buildPhases = (
+				736E95572489EB0700CCD26A /* Sources */,
+				736E95582489EB0700CCD26A /* Frameworks */,
+				736E95592489EB0700CCD26A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BTVN1;
+			productName = BTVN1;
+			productReference = 736E955B2489EB0700CCD26A /* BTVN1 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		736E95532489EB0600CCD26A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1150;
+				LastUpgradeCheck = 1150;
+				ORGANIZATIONNAME = "Lại Đức Anh";
+				TargetAttributes = {
+					736E955A2489EB0700CCD26A = {
+						CreatedOnToolsVersion = 11.5;
+					};
+				};
+			};
+			buildConfigurationList = 736E95562489EB0600CCD26A /* Build configuration list for PBXProject "BTVN1" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 736E95522489EB0600CCD26A;
+			productRefGroup = 736E955C2489EB0700CCD26A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				736E955A2489EB0700CCD26A /* BTVN1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		736E95572489EB0700CCD26A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				736E955F2489EB0700CCD26A /* main.swift in Sources */,
+				736E95682489FBA400CCD26A /* BT2- Tam Giac.swift in Sources */,
+				736E956C248A06CA00CCD26A /* BT4- Tinh Gio.swift in Sources */,
+				736E957A248AA91900CCD26A /* BT5- Min n.swift in Sources */,
+				736E9574248A5EB500CCD26A /* BT7- Ve X.swift in Sources */,
+				736E95662489EB1200CCD26A /* BT1- KTSN.swift in Sources */,
+				736E956A248A055500CCD26A /* BT3- Nam nhuan.swift in Sources */,
+				736E9572248A5C7600CCD26A /* BT10- Ve tam giac can nguoc.swift in Sources */,
+				736E956E248A0BA200CCD26A /* BT6- Ve tam giac can.swift in Sources */,
+				736E9576248AA37D00CCD26A /* BT8- So Hoan Hao.swift in Sources */,
+				736E9570248A5BBF00CCD26A /* BT9- Ve Hinh Chu Nhat Rong.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		736E95602489EB0700CCD26A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		736E95612489EB0700CCD26A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		736E95632489EB0700CCD26A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		736E95642489EB0700CCD26A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		736E95562489EB0600CCD26A /* Build configuration list for PBXProject "BTVN1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				736E95602489EB0700CCD26A /* Debug */,
+				736E95612489EB0700CCD26A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		736E95622489EB0700CCD26A /* Build configuration list for PBXNativeTarget "BTVN1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				736E95632489EB0700CCD26A /* Debug */,
+				736E95642489EB0700CCD26A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 736E95532489EB0600CCD26A /* Project object */;
+}
